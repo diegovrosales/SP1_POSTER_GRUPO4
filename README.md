@@ -1,1 +1,8 @@
-# SP1_POSTER_GRUPO4
+# POSTER Seminario Profesional 1
+
+Integrantes:
+
+- Diego Rosales 
+- Diego Cum
+- Ronaldo Bonilla
+
